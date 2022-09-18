@@ -3,8 +3,8 @@
            IT'S A SIMPLE GUI BASED MINI PROJECT IN JAVA  (IN SWING)
            IT'S A SIMPLE KEY LISTENER PROJECT WHICH DETECTS THE KEY MOVEMENTS AND WORKS ACCORDINGLY USE CAN ALSO (KEYCODE FOR ARROWS BUTTONS)
            
-           
-![Screenshot 2022-09-14 230723](https://user-images.githubusercontent.com/92202343/190912926-8b5ae7d2-99aa-4229-97d9-90df1ec426be.png)
+           ![Screenshot 2022-09-18 201009](https://user-images.githubusercontent.com/92202343/190912967-5e35feee-d2bd-4de2-bb5c-10f3fbe817ac.png)
+
 
               
               
