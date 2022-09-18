@@ -1,0 +1,13 @@
+# JAVA---KEY-LISTENER 
+           HELLO ,WORLD!
+           IT'S A SIMPLE GUI BASED MINI PROJECT IN JAVA  (IN SWING)
+           IT'S A SIMPLE KEY LISTENER PROJECT WHICH DETECTS THE KEY MOVEMENTS AND WORKS ACCORDINGLY USE CAN ALSO (KEYCODE FOR ARROWS BUTTONS)
+           
+           ![Screenshot 2022-09-18 201009](https://user-images.githubusercontent.com/92202343/190912782-60a6c422-8994-4faf-ba1e-ec06be6c478d.png)
+
+              
+              
+          HOW TO RUN THIS:
+         
+          IF YOU HAVE A JAVA IDE IN YOUR PC, JUST OPEN THE MAIN FILE ! 
+          YOU'RE GOOD TO GO!
